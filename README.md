@@ -1,7 +1,7 @@
 # Luminate Project
 
 Luminate is an application which safely stores medical records of patients using Blockchain.  
-It also uses Machine Learning and Artificial Intelligence let the patients know about their reports in a better way. 
+It also uses Machine Learning and Artificial Intelligence to let the patients know about their reports in a better way. 
 
 ## Techstack Used
 React JS  
