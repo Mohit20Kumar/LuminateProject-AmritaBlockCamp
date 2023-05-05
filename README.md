@@ -12,6 +12,11 @@ Sepolia Testnet
 FileCoin - IPFS - Infura
 Web3 JS  
 
+Python  
+Machine Learning  
+Artificial Intelligence  
+OpenAI API  
+
 
 ## Installation
 
