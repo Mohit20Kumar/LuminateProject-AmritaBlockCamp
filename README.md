@@ -7,6 +7,7 @@ It also uses Machine Learning and Artificial Intelligence let the patients know 
 React JS  
 Truffle  
 Remix  
+Solidity  
 Polygon Testnet  
 Sepolia Testnet  
 FileCoin - IPFS - Infura
